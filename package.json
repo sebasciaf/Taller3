@@ -8,7 +8,13 @@
       "array": "array\respuesta3.js",
       "multiplicacion": "multiplicacion\respuesta9.js",
       "palindromo": "palindromo\respuesta7.js",
-      "sumadenumeros": "sumadenumeros\respuesta1.js"
+      "sumadenumeros": "sumadenumeros\respuesta1.js",
+      "validacioncontrasena":"validacioncontrasena\respuesta10.js",
+      "filtrarnumerospares":"filtrarnumerospares\respuesta6.js",
+      "factorial":"factorial\respuesta2.js", 
+      "contadorpalabras":"contadordepalabras\respuesta4.js" , 
+      "calculodeimpuestos":"calculodeimpuestos\respuesta8.js"
+      
      
     },
     "keywords": [],
