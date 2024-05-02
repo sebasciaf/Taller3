@@ -1,0 +1,17 @@
+{
+    "name": "taller3",
+    "version": "1.0.0",
+    "description": "",
+    "main": "",
+    "scripts": {
+      "areacirculo": "areacirculo\respuesta5.js",
+      "array": "array\respuesta3.js",
+      "multiplicacion": "multiplicacion\respuesta9.js",
+      "palindromo": "palindromo\respuesta7.js",
+      "sumadenumeros": "sumadenumeros\respuesta1.js"
+     
+    },
+    "keywords": [],
+    "author": "sebastian valencia & mabel ladino",
+    "license": "ISC"
+  }
