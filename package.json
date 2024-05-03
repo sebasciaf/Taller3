@@ -4,20 +4,20 @@
     "description": "",
     "main": "",
     "scripts": {
-      "areacirculo": "areacirculo/respuesta5.js",
-      "array": "array/respuesta3.js",
-      "multiplicacion": "multiplicacion/respuesta9.js",
-      "palindromo": "palindromo/respuesta7.js",
-      "sumadenumeros": "sumadenumeros/respuesta1.js",
-      "validacioncontrasena":"validacioncontrasena/respuesta10.js",
-      "filtrarnumerospares":"filtrarnumerospares/respuesta6.js",
-      "factorial":"factorial/respuesta2.js", 
-      "contadorpalabras":"contadordepalabras/respuesta4.js" , 
-      "calculodeimpuestos":"calculodeimpuestos/respuesta8.js"
+      "areacirculo": "node areacirculo/respuesta5.js",
+      "array": "node array/respuesta3.js",
+      "multiplicacion": "node multiplicacion/respuesta9.js",
+      "palindromo": "node palindromo/respuesta7.js",
+      "sumadenumeros": "node sumadenumeros/respuesta1.js",
+      "validacioncontrasena":"node validacioncontrasena/respuesta10.js",
+      "filtrarnumerospares":"node filtrarnumerospares/respuesta6.js",
+      "factorial":"node factorial/respuesta2.js", 
+      "contadorpalabras":"node contadordepalabras/respuesta4.js" , 
+      "calculodeimpuestos":"node calculodeimpuestos/respuesta8.js"
       
      
     },
     "keywords": [],
     "author": "sebastian valencia & mabel ladino",
-    "license": "ISC"
+    "license": "La bendicion de chuchito-amen"
   }
