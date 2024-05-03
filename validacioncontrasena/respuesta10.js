@@ -10,7 +10,7 @@ function validarContrasena(contrasena) {
     return tieneMayuscula && tieneMinuscula && tieneNumero;
   }
   
-  // Ejemplo de uso
+
   const contrasenaEjemplo = "MiContrasena123";
   if (validarContrasena(contrasenaEjemplo)) {
     console.log("La contraseña es válida.");
